@@ -1,7 +1,6 @@
 # whats-your-secret
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <title>Projeto de Prática com EJS, Express e Axios</title>
   <description>
     Este projeto foi desenvolvido com o objetivo de praticar habilidades em EJS, Express e Axios, explorando conceitos fundamentais para a construção de servidores web e manipulação de métodos HTTP.
   </description>
